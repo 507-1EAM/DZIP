@@ -1,4 +1,4 @@
-sudo wget "https://github.com/507-1EAM/DZIP/raw/refs/heads/master/install.sh" -O "DZIP"
+sudo wget "https://raw.githubusercontent.com/507-1EAM/DZIP/refs/heads/master/bin/Debug/net8.0/DZIP" -O "DZIP"
 sudo chmod +x DZIP
 sudo mv DZIP /usr/bin/
 echo ""
