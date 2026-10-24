@@ -1,2 +1,0 @@
-/home/d1x3/DPROJ/DZIP/bin/Release/net8.0/linux-x64/publish/DZIP.pdb
-/home/d1x3/DPROJ/DZIP/bin/Release/net8.0/linux-x64/publish/DZIP
